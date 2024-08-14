@@ -1,0 +1,1842 @@
+{
+  "Category": "한식\/백반\/한정식",
+  "Data1Count": 189,
+  "Data2Count": 0,
+  "Difference": 189
+},
+{
+  "Category": "종합소매",
+  "Data1Count": 134,
+  "Data2Count": 0,
+  "Difference": 134
+},
+{
+  "Category": "부동산중개",
+  "Data1Count": 110,
+  "Data2Count": 0,
+  "Difference": 110
+},
+{
+  "Category": "커피전문점\/카페\/다방",
+  "Data1Count": 91,
+  "Data2Count": 0,
+  "Difference": 91
+},
+{
+  "Category": "청과물소매",
+  "Data1Count": 79,
+  "Data2Count": 0,
+  "Difference": 79
+},
+{
+  "Category": "비만\/피부관리",
+  "Data1Count": 61,
+  "Data2Count": 0,
+  "Difference": 61
+},
+{
+  "Category": "양품점",
+  "Data1Count": 60,
+  "Data2Count": 0,
+  "Difference": 60
+},
+{
+  "Category": "일반의류",
+  "Data1Count": 59,
+  "Data2Count": 0,
+  "Difference": 59
+},
+{
+  "Category": "룸살롱\/단란주점",
+  "Data1Count": 59,
+  "Data2Count": 0,
+  "Difference": 59
+},
+{
+  "Category": "여성미용실",
+  "Data1Count": 57,
+  "Data2Count": 0,
+  "Difference": 57
+},
+{
+  "Category": "잡화점",
+  "Data1Count": 50,
+  "Data2Count": 0,
+  "Difference": 50
+},
+{
+  "Category": "모텔\/여관\/여인숙",
+  "Data1Count": 46,
+  "Data2Count": 0,
+  "Difference": 46
+},
+{
+  "Category": "일반가전제품",
+  "Data1Count": 45,
+  "Data2Count": 0,
+  "Difference": 45
+},
+{
+  "Category": "수산물소매",
+  "Data1Count": 41,
+  "Data2Count": 0,
+  "Difference": 41
+},
+{
+  "Category": "화장품판매점",
+  "Data1Count": 39,
+  "Data2Count": 0,
+  "Difference": 39
+},
+{
+  "Category": "인삼제품판매",
+  "Data1Count": 36,
+  "Data2Count": 0,
+  "Difference": 36
+},
+{
+  "Category": "식료품점",
+  "Data1Count": 32,
+  "Data2Count": 0,
+  "Difference": 32
+},
+{
+  "Category": "발\/네일케어",
+  "Data1Count": 26,
+  "Data2Count": 0,
+  "Difference": 26
+},
+{
+  "Category": "횟집",
+  "Data1Count": 26,
+  "Data2Count": 47,
+  "Difference": -21
+},
+{
+  "Category": "시장\/종합상가",
+  "Data1Count": 26,
+  "Data2Count": 0,
+  "Difference": 26
+},
+{
+  "Category": "라면김밥분식",
+  "Data1Count": 25,
+  "Data2Count": 0,
+  "Difference": 25
+},
+{
+  "Category": "호프\/맥주",
+  "Data1Count": 24,
+  "Data2Count": 0,
+  "Difference": 24
+},
+{
+  "Category": "편의점",
+  "Data1Count": 24,
+  "Data2Count": 29,
+  "Difference": -5
+},
+{
+  "Category": "육류소매",
+  "Data1Count": 24,
+  "Data2Count": 0,
+  "Difference": 24
+},
+{
+  "Category": "갈비\/삼겹살",
+  "Data1Count": 24,
+  "Data2Count": 0,
+  "Difference": 24
+},
+{
+  "Category": "건강식품판매",
+  "Data1Count": 23,
+  "Data2Count": 0,
+  "Difference": 23
+},
+{
+  "Category": "제과점",
+  "Data1Count": 23,
+  "Data2Count": 0,
+  "Difference": 23
+},
+{
+  "Category": "사업경영상담",
+  "Data1Count": 21,
+  "Data2Count": 0,
+  "Difference": 21
+},
+{
+  "Category": "수퍼마켓",
+  "Data1Count": 20,
+  "Data2Count": 0,
+  "Difference": 20
+},
+{
+  "Category": "후라이드\/양념치킨",
+  "Data1Count": 20,
+  "Data2Count": 0,
+  "Difference": 20
+},
+{
+  "Category": "유리\/페인트\/철물건축자재",
+  "Data1Count": 19,
+  "Data2Count": 0,
+  "Difference": 19
+},
+{
+  "Category": "중국음식\/중국집",
+  "Data1Count": 19,
+  "Data2Count": 0,
+  "Difference": 19
+},
+{
+  "Category": "빠\/카페\/스탠드빠",
+  "Data1Count": 17,
+  "Data2Count": 0,
+  "Difference": 17
+},
+{
+  "Category": "기타일반유흥주점",
+  "Data1Count": 17,
+  "Data2Count": 0,
+  "Difference": 17
+},
+{
+  "Category": "정통양식\/경양식",
+  "Data1Count": 17,
+  "Data2Count": 0,
+  "Difference": 17
+},
+{
+  "Category": "여성의류전문점",
+  "Data1Count": 16,
+  "Data2Count": 0,
+  "Difference": 16
+},
+{
+  "Category": "안경원",
+  "Data1Count": 16,
+  "Data2Count": 0,
+  "Difference": 16
+},
+{
+  "Category": "청소\/소독",
+  "Data1Count": 16,
+  "Data2Count": 0,
+  "Difference": 16
+},
+{
+  "Category": "인력공급\/고용알선",
+  "Data1Count": 16,
+  "Data2Count": 0,
+  "Difference": 16
+},
+{
+  "Category": "건물분양-종합",
+  "Data1Count": 16,
+  "Data2Count": 0,
+  "Difference": 16
+},
+{
+  "Category": "신발소매",
+  "Data1Count": 16,
+  "Data2Count": 0,
+  "Difference": 16
+},
+{
+  "Category": "주차장운영",
+  "Data1Count": 15,
+  "Data2Count": 0,
+  "Difference": 15
+},
+{
+  "Category": "핸드폰소매",
+  "Data1Count": 15,
+  "Data2Count": 0,
+  "Difference": 15
+},
+{
+  "Category": "해장국\/감자탕",
+  "Data1Count": 14,
+  "Data2Count": 0,
+  "Difference": 14
+},
+{
+  "Category": "의료용품소매",
+  "Data1Count": 14,
+  "Data2Count": 0,
+  "Difference": 14
+},
+{
+  "Category": "철물\/건설자재소매",
+  "Data1Count": 14,
+  "Data2Count": 0,
+  "Difference": 14
+},
+{
+  "Category": "꽃집\/꽃배달",
+  "Data1Count": 13,
+  "Data2Count": 0,
+  "Difference": 13
+},
+{
+  "Category": "민물장어전문",
+  "Data1Count": 13,
+  "Data2Count": 0,
+  "Difference": 13
+},
+{
+  "Category": "음식점-일식",
+  "Data1Count": 13,
+  "Data2Count": 0,
+  "Difference": 13
+},
+{
+  "Category": "국수\/만두\/칼국수",
+  "Data1Count": 13,
+  "Data2Count": 0,
+  "Difference": 13
+},
+{
+  "Category": "곡물소매",
+  "Data1Count": 12,
+  "Data2Count": 0,
+  "Difference": 12
+},
+{
+  "Category": "노래방",
+  "Data1Count": 12,
+  "Data2Count": 10,
+  "Difference": 2
+},
+{
+  "Category": "헬스클럽",
+  "Data1Count": 12,
+  "Data2Count": 0,
+  "Difference": 12
+},
+{
+  "Category": "생활용품판매",
+  "Data1Count": 12,
+  "Data2Count": 0,
+  "Difference": 12
+},
+{
+  "Category": "셔츠\/내의\/속옷",
+  "Data1Count": 12,
+  "Data2Count": 0,
+  "Difference": 12
+},
+{
+  "Category": "학원(종합)",
+  "Data1Count": 12,
+  "Data2Count": 0,
+  "Difference": 12
+},
+{
+  "Category": "건어물상",
+  "Data1Count": 11,
+  "Data2Count": 0,
+  "Difference": 11
+},
+{
+  "Category": "정육점",
+  "Data1Count": 11,
+  "Data2Count": 10,
+  "Difference": 1
+},
+{
+  "Category": "기타고기요리",
+  "Data1Count": 11,
+  "Data2Count": 0,
+  "Difference": 11
+},
+{
+  "Category": "족발\/보쌈전문",
+  "Data1Count": 11,
+  "Data2Count": 0,
+  "Difference": 11
+},
+{
+  "Category": "학원-기타",
+  "Data1Count": 11,
+  "Data2Count": 0,
+  "Difference": 11
+},
+{
+  "Category": "세탁소\/빨래방",
+  "Data1Count": 11,
+  "Data2Count": 0,
+  "Difference": 11
+},
+{
+  "Category": "남성미용실",
+  "Data1Count": 10,
+  "Data2Count": 0,
+  "Difference": 10
+},
+{
+  "Category": "맞춤양장\/양장점",
+  "Data1Count": 10,
+  "Data2Count": 0,
+  "Difference": 10
+},
+{
+  "Category": "음식점-초밥전문",
+  "Data1Count": 10,
+  "Data2Count": 0,
+  "Difference": 10
+},
+{
+  "Category": "액세서리판매",
+  "Data1Count": 10,
+  "Data2Count": 0,
+  "Difference": 10
+},
+{
+  "Category": "시계\/귀금속",
+  "Data1Count": 10,
+  "Data2Count": 0,
+  "Difference": 10
+},
+{
+  "Category": "소주방\/포장마차",
+  "Data1Count": 10,
+  "Data2Count": 0,
+  "Difference": 10
+},
+{
+  "Category": "아동복판매",
+  "Data1Count": 9,
+  "Data2Count": 0,
+  "Difference": 9
+},
+{
+  "Category": "무도유흥주점-종합",
+  "Data1Count": 9,
+  "Data2Count": 0,
+  "Difference": 9
+},
+{
+  "Category": "정수기연수기",
+  "Data1Count": 9,
+  "Data2Count": 0,
+  "Difference": 9
+},
+{
+  "Category": "복전문",
+  "Data1Count": 8,
+  "Data2Count": 0,
+  "Difference": 8
+},
+{
+  "Category": "보청기판매",
+  "Data1Count": 8,
+  "Data2Count": 0,
+  "Difference": 8
+},
+{
+  "Category": "악기판매",
+  "Data1Count": 8,
+  "Data2Count": 0,
+  "Difference": 8
+},
+{
+  "Category": "욕탕업-종합",
+  "Data1Count": 8,
+  "Data2Count": 0,
+  "Difference": 8
+},
+{
+  "Category": "학원-외국어\/어학",
+  "Data1Count": 8,
+  "Data2Count": 0,
+  "Difference": 8
+},
+{
+  "Category": "설렁탕집",
+  "Data1Count": 8,
+  "Data2Count": 0,
+  "Difference": 8
+},
+{
+  "Category": "결혼상담소",
+  "Data1Count": 7,
+  "Data2Count": 0,
+  "Difference": 7
+},
+{
+  "Category": "곰장어전문",
+  "Data1Count": 7,
+  "Data2Count": 0,
+  "Difference": 7
+},
+{
+  "Category": "사무\/문구용품",
+  "Data1Count": 7,
+  "Data2Count": 0,
+  "Difference": 7
+},
+{
+  "Category": "피자전문",
+  "Data1Count": 7,
+  "Data2Count": 0,
+  "Difference": 7
+},
+{
+  "Category": "고객관리대행",
+  "Data1Count": 7,
+  "Data2Count": 0,
+  "Difference": 7
+},
+{
+  "Category": "캐쥬얼\/스포츠의류",
+  "Data1Count": 7,
+  "Data2Count": 0,
+  "Difference": 7
+},
+{
+  "Category": "반찬가게",
+  "Data1Count": 7,
+  "Data2Count": 0,
+  "Difference": 7
+},
+{
+  "Category": "일반가구소매",
+  "Data1Count": 6,
+  "Data2Count": 0,
+  "Difference": 6
+},
+{
+  "Category": "종합부페",
+  "Data1Count": 6,
+  "Data2Count": 0,
+  "Difference": 6
+},
+{
+  "Category": "냉면집",
+  "Data1Count": 6,
+  "Data2Count": 0,
+  "Difference": 6
+},
+{
+  "Category": "가사도우미알선",
+  "Data1Count": 6,
+  "Data2Count": 0,
+  "Difference": 6
+},
+{
+  "Category": "아구전문",
+  "Data1Count": 6,
+  "Data2Count": 0,
+  "Difference": 6
+},
+{
+  "Category": "호텔\/콘도",
+  "Data1Count": 6,
+  "Data2Count": 0,
+  "Difference": 6
+},
+{
+  "Category": "자동차부품판매",
+  "Data1Count": 6,
+  "Data2Count": 0,
+  "Difference": 6
+},
+{
+  "Category": "인테리어\/욕실용품\/커튼",
+  "Data1Count": 6,
+  "Data2Count": 0,
+  "Difference": 6
+},
+{
+  "Category": "자동차정비\/카센타",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "가방\/가죽제품소매",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "전통찻집\/인삼찻집",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "학원-미용",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "참치전문점",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "주방용품",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "조명기구\/전기용품",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "중고가전가구",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "건강원",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "침구\/수예품",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "요가\/단식",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "학원-스포츠\/재즈댄스",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "등산용품판매",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "섬유\/직물\/주단",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "재활용\/고물수집",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "사진관",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "수산물전문음식점-종합",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "주방가구판매",
+  "Data1Count": 5,
+  "Data2Count": 0,
+  "Difference": 5
+},
+{
+  "Category": "인쇄종합",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "돈가스전문점",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "어린이집",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "도서\/만화대여",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "그릇판매",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "떡볶이전문",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "건강보조기구판매",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "상업사진",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "수입품판매점",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "부동산감정평가",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "가전제품수리",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "가발판매",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "운동\/경기용품",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "기념패\/휘장",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "피아노\/바이올린\/기타",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "죽전문점",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "화방\/필방",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "서예\/서화\/미술",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "오리고기전문",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "통신판매",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "기원",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "종교용품판매-불교",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "고시원",
+  "Data1Count": 4,
+  "Data2Count": 0,
+  "Difference": 4
+},
+{
+  "Category": "남성의류전문점",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "어물상",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "순대전문점",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "예식장\/예식서비스",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "옷수선",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "인터넷PC방",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "컴퓨터수리",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "할인점",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "닭집",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "파전전문",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "방앗간\/정미소",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "구두제화\/캐주얼화",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "건축백화점",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "우체국\/우편물취급소",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "중고명품판매교환",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "사무대리서비스",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "해물찜\/탕전문",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "금연관련제품판매",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "유리\/거울판매",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "삼계탕전문",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "안마시술소",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "낙지\/오징어",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "전화기판매",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "지물판매",
+  "Data1Count": 3,
+  "Data2Count": 0,
+  "Difference": 3
+},
+{
+  "Category": "장의사\/관련서비스-종합",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "독서실",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "스포츠센터",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "이벤트기획",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "무도장",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "학원-사교춤",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "김치판매",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "스포츠마사지",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "한정식전문",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "가구판매-침대전문",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "부대찌개\/섞어찌개",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "복권판매",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "물품대여종합",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "금은방",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "자전거판매\/수리",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "체형미교실",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "꼬치구이전문점",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "동남아음식전문점",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "도너츠전문",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "스낵",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "부동산자문",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "애완동물 미용실",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "단전호흡",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "학원-공예",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "곱창\/양구이전문",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "떡전문",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "학원-입시",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "당구장",
+  "Data1Count": 2,
+  "Data2Count": 7,
+  "Difference": -5
+},
+{
+  "Category": "돌솥\/비빕밥전문점",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "타이어판매",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "학원-애견미용",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "사우나\/증기탕\/온천",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "도시락전문점",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "렌트카",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "휴대폰튜닝",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "음반\/테이프\/CD",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "유니폼\/맞춤복\/단체복",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "사무용기기소매",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "오디오전문점",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "행사대행",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "학원-주산암산부기속셈",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "갈치\/생선구이",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "애견\/애완\/동물사육판매",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "유스호스텔",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "개인\/가정용품수리-종합",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "미장타일도배도장",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "에어컨수리\/설치",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "주택공급",
+  "Data1Count": 2,
+  "Data2Count": 0,
+  "Difference": 2
+},
+{
+  "Category": "건강\/헬스용품",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "미곡상",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "컴퓨터학원",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "성인용품판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "퓨전음식전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "간판제작종합",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "학원-전기기술",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "자동차판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "버섯전문점",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "유류판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "셔터\/새시판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "야식집",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "학원-무용",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "완구점",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "케익전문점",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "생활용품대여",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "보드게임카페",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "연예인대리업",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "체육관",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "연극공연\/영화제작용품임대",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "세차장",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "오토바이판매\/수리",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "조립칸막이\/파티션",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "스파게티전문점",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "탁구장",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "선물용품판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "스티커사진방",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "정보통신기기수리",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "가방구두수전",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "오락\/스포츠용품대여",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "표구점",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "탐정\/경호",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "학원-말더듬",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "배관난방보일러",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "의류\/한복대여",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "쌈밥전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "닭갈비전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "의약품소매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "풍선도소매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "우동전문점",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "기타오락관련산업",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "구판장\/직판장",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "닭도리탕전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "컴퓨터\/주변기기",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "학원-이용",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "볼링장",
+  "Data1Count": 1,
+  "Data2Count": 1,
+  "Difference": 0
+},
+{
+  "Category": "선식판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "관광\/유흥주점",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "다이어트상품판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "재첩국전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "나이트클럽",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "관광\/민예품\/선물용품소매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "학원\/국가고시",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "폐백전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "페인트\/유리제품소매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "패스트푸드",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "기능성신발판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "예술품\/골동품소매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "보일러\/냉난방용품",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "닭내장\/닭발요리",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "낚시용품판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "놀이방",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "인장\/도장",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "얼음가게",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "추어탕전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "여성내의전문점",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "학습지보급",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "목욕업-찜질방",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "이민유학알선",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "굴요리전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "아이스크림판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "사철탕전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "냉동식품판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "조개구이전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "십자수\/뜨개",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "서점",
+  "Data1Count": 1,
+  "Data2Count": 2,
+  "Difference": -1
+},
+{
+  "Category": "농기구판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "악기수선",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "목제품판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "샤브샤브전문",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "기타운영설비",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "번역\/통역서비스",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "중고서적판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "가정용가구\/기기임대",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "식용유판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "골프용품판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "실내놀이터-유아",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "운동\/코치학교",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "한복\/갈옷\/민속옷",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "열쇠판매\/수리",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "금고판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "LPG판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "호스피스",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "기타실내운동시설",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "파라솔판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "서적\/신문소매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "예복\/웨딩드레스",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "건과류판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "노래방기기판매",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "법무관련서비스-종합",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "종합이삿짐대행",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+},
+{
+  "Category": "학원-가요",
+  "Data1Count": 1,
+  "Data2Count": 0,
+  "Difference": 1
+}
